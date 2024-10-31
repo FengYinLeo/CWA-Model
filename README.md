@@ -10,7 +10,7 @@ Figure 3 illustrates the framework of the CWA model. First, based on CN theory, 
 ## Citation
 Please cite our paper if this repository is helpful for your study.  
 {
-Cao, W., Wang, X., Li, J., Zhang, Z., Cao, Y., Feng, Y., 2024. A novel integrated method for heterogeneity analysis of marine accidents in different ship types. Ocean Engineering.
+Cao, W., Wang, X., Li, J., Zhang, Z., Cao, Y., Feng, Y., 2024. A novel integrated method for heterogeneity analysis of marine accidents in different ship types. Ocean Engineering. https://doi.org/10.1016/j.oceaneng.2024.119295
 }
 ## License
 This project is released under the MIT license.
